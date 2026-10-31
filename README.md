@@ -47,4 +47,15 @@ Here is one of the visual samples included in my creative portfolio.
 
 ![Featured Portfolio Sample](H.jpg)
 
+
+📖 Project 01: Premium Book Cover Presentation
+
+**Project Type:** Book Cover Promotional Design
+
+**Creative Focus:** Elegant book presentation, visual storytelling, and premium promotional aesthetics.
+
+**Portfolio Category:** Book Cover & Promotional Designs
+
+**Note:** This is a portfolio sample.
+
 ⭐ Thank you for exploring my portfolio!
