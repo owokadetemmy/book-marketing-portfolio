@@ -41,6 +41,10 @@ I'm open to connecting with authors, publishers, book lovers, and creative profe
 
 **Location:** Nigeria
 
----
+## 🖼️ Featured Portfolio Sample
+
+Here is one of the visual samples included in my creative portfolio.
+
+![Featured Portfolio Sample](H.jpg)
 
 ⭐ Thank you for exploring my portfolio!
